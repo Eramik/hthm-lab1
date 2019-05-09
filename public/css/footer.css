@@ -1,0 +1,35 @@
+#footer {
+  background: #333;
+  width: 100%;
+}
+
+/**
+ * the sticky footer mixin
+ **/
+/**
+ * the sticky footer implementation
+ **/
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin-bottom: -30px;
+}
+#wrapper #container {
+  padding: 0 0 30px 0;
+}
+
+#footer {
+  height: 30px;
+}
+
+/*# sourceMappingURL=footer.css.map */
