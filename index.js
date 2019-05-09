@@ -21,9 +21,9 @@ app.get('', (req, res) => {
     });
 });
 
-app.get('/how_to_find_us', (req, res) => {
-    res.render('how_to_find_us', {
-        tab_title: 'How to find us'
+app.get('/departments', (req, res) => {
+    res.render('departments', {
+        tab_title: 'Departments'
     });
 });
 
