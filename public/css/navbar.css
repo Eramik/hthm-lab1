@@ -1,7 +1,7 @@
 /* FONT IMPORTED */
 /* Fira Sans */
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans");
-#container {
+#nav-container {
   width: 100%;
   display: inline-block;
 }

@@ -4,6 +4,7 @@
 @import 'index';
 @import 'department';
 @import 'popout';
+@import 'table';
 
 main {
     padding: 60px;
@@ -11,4 +12,5 @@ main {
 
 body {
     background-color: #f2f2f2;
+    font-family: "Fira Sans", sans-serif;
 }
